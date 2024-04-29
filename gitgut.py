@@ -1,0 +1,1 @@
+print("halooooooooo dari gitaaaaaaaaaaaaaaaaaaaaaaaazzzzzzzzzzzzzzzzzzzzzzzzzzzzzz")
